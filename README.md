@@ -1,5 +1,5 @@
 # KAVI
-Keyboard Accelerated Visual Input
+Keyboard Accelerated Visual Interface
 
 ## What is KAVI
 KAVI is a set of design principles around grahical user interfaces which are intended to provide the user with a VI like experience within a graphical setting of modern UI's.
@@ -34,4 +34,4 @@ These are currently in-progress definitions that are being refined and added as 
 1.  Single action lists should execute immediately on selection without additonal input
 
 ## KAVI Implementations
-1.  Eclipse Commander - A replacement for the Eclipse Quick Access feature build using the design principles of KAVI.  This is currently an Alpha of some of the first attempts at building UI controls with a KAVI paradigm.  Based on some of the experience here KAVI will be further revised and defined.
+1.  Eclipse Commander - A replacement for the Eclipse Quick Access feature built using the design principles of KAVI.  This is currently an Alpha of some of the first attempts at building UI controls with a KAVI paradigm.  Based on some of the experience here KAVI will be further revised and defined.
